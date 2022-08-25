@@ -1,5 +1,4 @@
 # To visit the live page, click the link below
- https://kwassi09.github.io/Web-Design-Challenge/
 
 
 # Unit 11 Homework: Web Visualization Dashboard 
