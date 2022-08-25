@@ -1,0 +1,91 @@
+body {   
+  font-size: 1.1em;
+  background-color:#eee;
+}
+  
+h2{
+  color: rgb(81, 175, 160);
+  padding: 30px;
+}
+
+.navbar-light .navbar-brand {
+  color: White;
+}
+ .navbar-brand {
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: rgb(20, 150, 150);
+    padding: 5px;
+    margin-left:10px;
+  }
+  
+  .main-image {      
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    float: left;
+ }
+
+ .navbar {
+  background-color: white;
+  width: 100%;
+  padding: 0;
+ }
+
+ .nav-item {
+  font-weight: bold;
+}
+
+.content {
+  width:90%;
+  margin: 20px auto;
+  padding:1em;
+}
+  
+
+.text-left {
+  text-align: left;
+  color: rgb(20, 150, 150);
+  
+  font-weight: bolder;
+}
+
+.text-center {
+  color: rgb(20, 150, 150);
+  
+  font-weight: bolder;
+}
+ .navbar-collapse {
+  position: relative;
+  font-size: small;
+    }
+
+    .col-md-8 {
+      background-color: white;
+      padding-right:5%;
+    }
+
+    .col-sm-12,.col-md-4 {
+      background-color: white;
+    }
+    
+    div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img {
+      width: 100%;
+    } 
+  
+    div.col-sm-12.col-md-12 p {
+      color: black;
+      font-size: medium;
+      font-weight: bolder;
+    }
+    
+
+ @media (max-width: 750px) {
+    .navbar-light {
+      background:rgb(20, 150, 150);
+    } 
+
+    .navbar-collapse {
+      background:white;
+    }
+  }
